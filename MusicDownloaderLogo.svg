@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="background" x1="56" y1="32" x2="456" y2="480" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6557F5"/>
+      <stop offset="1" stop-color="#241A72"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="104" y1="108" x2="397" y2="399" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#83F1DF"/>
+      <stop offset="1" stop-color="#35CDBB"/>
+    </linearGradient>
+  </defs>
+  <rect x="32" y="32" width="448" height="448" rx="112" fill="url(#background)"/>
+  <ellipse cx="125" cy="355" rx="38" ry="29" transform="rotate(-18 125 355)" fill="url(#accent)"/>
+  <ellipse cx="235" cy="327" rx="38" ry="29" transform="rotate(-18 235 327)" fill="url(#accent)"/>
+  <path d="M158 348V154m110 166V126" fill="none" stroke="url(#accent)" stroke-linecap="round" stroke-width="24"/>
+  <path d="m158 154 110-28v53l-110 28z" fill="url(#accent)"/>
+  <path d="M378 202v130m0 0-52-52m52 52 52-52" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"/>
+  <path d="M322 365v25c0 9 7 16 16 16h80c9 0 16-7 16-16v-25" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="24"/>
+</svg>
