@@ -1,4 +1,5 @@
 # Presentación del proyecto: Descargador de audio de YouTube
+<img width="782" height="524" alt="image" src="https://github.com/user-attachments/assets/1f0b2fb4-cdcb-4a8c-97a9-fbf9cd53a4e9" />
 
 ## 1. Descripción general
 
